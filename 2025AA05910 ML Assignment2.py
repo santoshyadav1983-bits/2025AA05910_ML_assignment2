@@ -45,7 +45,7 @@ column_names = ['age', 'workclass', 'fnlwgt', 'education', 'education-num',
                 'marital-status', 'occupation', 'relationship', 'race', 'sex',
                 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country', 'income']
 
-df = pd.read_csv('dataset/Demographics.csv', names=column_names, skipinitialspace=True)
+df = pd.read_csv('emographics.csv', names=column_names, skipinitialspace=True)
 
 print(f"Dataset shape: {df.shape}")
 print("\nFirst few rows:")

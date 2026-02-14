@@ -1,6 +1,6 @@
 a. Problem statement: Implement and compare 6 classification models to predict income levels (<=50K or >50K).
 
-b. Dataset description [ 1 mark ]: Input dataset consists of demographics on individuals along with their income classified as >50K or <=50K. This is a classic binary classification problem used to understand socioeconomic factors affecting income levels. It has applications in economic policy, social services allocation, and understanding income inequality patterns. The dataset consists of 15 features (list given below) and has few columns with missing values which need to handled.
+b. Dataset description [ 1 mark ]: Input dataset consists of demographics of individuals along with their income classified as >50K or <=50K. This is a classic binary classification problem used to understand socioeconomic factors affecting income levels. It has applications in economic policy, social services allocation, and understanding income inequality patterns. The dataset consists of 15 features (list given below) and has few columns with missing values which need to handled.
 
 | #   Column         | Data Type |
 |--------------------|-----------|
